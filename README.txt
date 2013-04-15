@@ -9,7 +9,7 @@ Our Unity API wrapper allows you to easily track your game using the GAMEhud ser
 
 Here are the steps to help you get started tracking your game:
 
-1) Register for a FREE account at https://www.mygamehud.com
+1) Register for an account at https://www.mygamehud.com
 2) Once you have logged in, add your game to the Games List
 3) Visit the Settings page for your game and copy down your Game API Key.  You will need this to communicate with our API.
 4) Import the gamehud_unity_wrapper asset package into your Unity game.  Found at https://www.mygamehud.com/unity_api_support.
